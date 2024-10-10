@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: export-config-results.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Vous pouvez exporter les résultats de la configuration à partir de la page *Résultats*, à l"aide de la fonction Exporter.' 
+---
+= Exporter les résultats de la configuration
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez exporter les résultats de la configuration à partir de la page *Résultats*, à l'aide de la fonction *Exporter*. L'exportation des résultats de la configuration contient des informations détaillées sur la solution de stockage, les critères de recherche, les détails de la configuration et toute alerte spécifique ou information supplémentaire. Vous pouvez exporter les résultats de la configuration vers une feuille de calcul Excel ou un PDF.
+
+
+
+== Description de la tâche
+
+Le format de nom de fichier de la feuille Excel qui inclut les résultats de la configuration est `IMT_solutionshortname_timestamp.xls`.
+
+
+
+== Étapes
+
+. Sur la page *Résultats*, dans le menu déroulant *Exporter*, vous pouvez choisir d'exporter la solution actuelle ou la vue de bout en bout de la configuration.
+. En fonction de vos besoins, cliquez sur *solution actuelle* ou sur *fin de la vue*. Vous pouvez exporter un maximum de 3000 lignes. Auparavant, vous pouviez exporter jusqu'à 1000 lignes, mais cette limite a augmenté. Vous devez utiliser un filtre pour réduire les résultats. Vous pouvez également utiliser la fonction *Complete Daily Export* pour obtenir les résultats complets.
+. Vous pouvez enregistrer la feuille de calcul Excel ou le PDF sur votre ordinateur local.
+

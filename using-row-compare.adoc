@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: using-row-compare.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'De nombreuses lignes contiennent des informations très similaires dans l"outil Interoperability Matrix Tool et vous pouvez devenir un processus manuel fastidieux pour trouver la différence entre les lignes.' 
+---
+= Utiliser la comparaison de lignes
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+De nombreuses lignes contiennent des informations très similaires dans l'outil Interoperability Matrix Tool et vous pouvez devenir un processus manuel fastidieux pour trouver la différence entre les lignes. L'outil matrice d'interopérabilité fournit une fonctionnalité permettant de comparer deux lignes.
+
+
+
+== Description de la tâche
+
+Dans la page Résultats, chaque solution héberge le bouton Ajouter à comparer ou une icône sur l'en-tête de la carte de configuration.
+
+
+
+== Étapes
+
+. Pour ajouter une configuration à comparer, cliquez sur l'icône *comparaison des composants de configuration*. Vous pouvez sélectionner au maximum deux configurations à comparer.
+. Cliquez sur le bouton *comparaison des composants de configuration* pour comparer deux lignes.
+
+
+
+
+== Résultat
+
+Les différences sont mises en évidence dans la police *Bold* de la zone d'affichage de mise à la page. Les composants sont regroupés sous les types de composants respectifs. Les composants identiques sur les deux lignes seront de police normale. Vous ne pourrez pas comparer des lignes entre deux solutions.

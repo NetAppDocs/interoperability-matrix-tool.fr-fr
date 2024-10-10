@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: saving-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Sur la page Affiner les critères de recherche, vous pouvez choisir d"enregistrer ou de mettre à jour les critères de recherche pour les récupérer ultérieurement.' 
+---
+= Enregistrez les critères de recherche
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sur la page *Affiner les critères de recherche*, vous pouvez choisir d'enregistrer ou de mettre à jour les critères de recherche pour les récupérer ultérieurement.
+
+
+
+== Avant de commencer
+
+Vous devez avoir déjà ajouté des solutions et des composants sur la première page pour enregistrer les critères pour référence ultérieure.
+
+.Étapes
+. Cliquez sur *Enregistrer les critères* sur la page *Affiner les critères de recherche*.
+. Entrez le *Criteria Name* et ajoutez des informations dans les champs *Description*. Le *Criteria Name* peut être alphanumérique et vous pouvez ajouter jusqu'à 20 caractères. Le champ *Description* peut contenir jusqu'à 100 caractères alphanumériques. La matrice d'interopérabilité n'autorise pas les doublons de noms pour les critères d'enregistrement. *Le nom du critère* est obligatoire.
+. Cliquez sur *mettre à jour les critères* pour ajouter des filtres ou des critères à inclure dans les critères enregistrés.
+. Cliquez sur *Enregistrer*. Le lien *Enregistrer les critères* devient *mettre à jour les critères* après avoir enregistré les critères. Vous pouvez enregistrer un maximum de 10 critères de recherche.
+
+
+
+
+== Résultat
+
+Lorsque vous cliquez sur *recherche enregistrée*, une fenêtre contextuelle *critères enregistrés* s'affiche. L'onglet *recherche récente* affiche vos recherches les plus récentes.
+
+Chaque recherche enregistrée récente est identifiée de manière unique par son horodatage. Vous pouvez cliquer sur l'horodatage pour accéder à la page *Affiner les critères de recherche*.

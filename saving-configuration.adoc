@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: saving-configuration.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Vous pouvez enregistrer des configurations avec le nom de votre choix pour une solution particulière. 
+---
+= Enregistrer la configuration
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez enregistrer des configurations avec le nom de votre choix pour une solution particulière. Cela vous permet de récupérer les configurations plus tard sans mémoriser l'ID de configuration complexe.
+
+
+
+== Avant de commencer
+
+Vous pouvez facilement récupérer la configuration souhaitée plus tard en recherchant le nom que vous avez spécifié.
+
+
+
+== Description de la tâche
+
+Si vous souhaitez vous reporter à la configuration ultérieurement, vous pouvez enregistrer la configuration avec le nom de votre choix.
+
+
+
+== Étapes
+
+. Dans la page *Résultats*, cliquez sur étoile pour enregistrer la configuration. Une fois la configuration enregistrée, l'étoile devient jaune. Vous pouvez enregistrer un maximum de 20 configurations.
+. Dans la boîte de dialogue *Tag Configuration*, entrez le nom et la description pour marquer la configuration comme référence. Le nom de la configuration enregistrée s'affiche sur le lien des détails de la configuration. Vous pouvez ajouter plusieurs configurations à une balise particulière. Une balise est unique à une solution unique. Différents utilisateurs peuvent utiliser le même nom de balise.
+. Sélectionnez le nom de la balise dans la liste déroulante pour ajouter des configurations à un onglet déjà enregistré.
+

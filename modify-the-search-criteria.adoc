@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: modify-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: À partir de la page critères de recherche de raffinage, vous pouvez choisir de modifier les critères de recherche pour ajouter une solution, un composant ou une catégorie aux critères. 
+---
+= Modifier les critères de recherche
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+À partir de la page *critères de recherche de raffinage*, vous pouvez choisir de modifier les critères de recherche pour ajouter une solution, un composant ou une catégorie aux critères.
+
+
+
+== Étapes
+
+. Dans la page *Affiner les critères de recherche*, cliquez sur *Modifier les critères*.
+. Dans la page des critères de recherche, vous pouvez ajouter une solution, un composant ou une catégorie à l'aide de la zone de texte de recherche.
+. Cliquez sur *Suivant* pour afficher les configurations compatibles dans la page *critères de recherche de raffinage*.
+

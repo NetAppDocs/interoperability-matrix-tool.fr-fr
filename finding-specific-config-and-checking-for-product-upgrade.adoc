@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: finding-specific-config-and-checking-for-product-upgrade.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, windows, server 
+summary: Déterminer .. 
+---
+= Recherchez une configuration spécifique et vérifiez la compatibilité de la mise à niveau ou de la mise à niveau vers une version antérieure du produit
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez utiliser l'outil Interoperability Matrix Tool pour afficher une configuration spécifique afin de mettre à niveau ou de rétrograder un composant de votre configuration de produit.
+
+Le flux de travail est illustré ci-dessous :
+
+image::pg16_imt.png[workflow pour afficher une configuration spécifique à mettre à niveau ou à rétrograder]

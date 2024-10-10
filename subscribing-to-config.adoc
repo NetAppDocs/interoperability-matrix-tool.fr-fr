@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Vous pouvez vous abonner à des configurations portant le nom de votre choix pour une solution ou un composant spécifique. 
+---
+= Abonnement aux configurations
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez vous abonner à des configurations portant le nom de votre choix pour une solution ou un composant spécifique. Cela vous permet de recevoir des mises à jour par e-mail lorsqu'une mise à jour ou une modification est apportée à la ligne souscrite. Vous pouvez vous abonner à un maximum de 20 configurations.
+
+
+
+== Description de la tâche
+
+Vous pouvez recevoir les e-mails dans les cas suivants :
+
+* Lorsque des composants sont ajoutés à la configuration
+* Lorsque des composants sont supprimés de la configuration
+* Lorsque des notes sont ajoutées ou supprimées de la configuration
+* Lorsque l'état de la configuration passe de pris en charge à l'un des États de terminal supplémentaires (EOS, Obsolète, etc.)
+
+
+
+
+== Étapes
+
+. Dans la page *Résultats*, cliquez sur étoile pour enregistrer la configuration. Une fois la configuration enregistrée, l'étoile devient jaune. Vous pouvez enregistrer un maximum de 20 configurations.
+. Dans la boîte de dialogue *Tag Configuration*, entrez le nom et la description pour marquer la configuration comme référence.
+. Cochez la case *s'abonner* à cette configuration.
+. Cliquez sur *Tag*.
+

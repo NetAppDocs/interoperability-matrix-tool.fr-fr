@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: working-with-list-and-find.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, list, find 
+summary: Déterminer .. 
+---
+= Utilisation de la liste et de la recherche
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Dans la zone de travail *liste et trouver* composants, vous pouvez afficher les meilleures configurations possibles pour vos composants.
+
+
+
+== Description de la tâche
+
+Utilisez le panneau *Component Explorer* à gauche pour afficher les configurations des composants sélectionnés. Le panneau de droite affiche les solutions ; chaque onglet représente une solution de stockage et le nombre de configurations qui utilisent les composants sélectionnés. Si le bouton bascule vert *Logic* de la zone de travail *liste et Rechercher un composant* est défini sur OU, vous pouvez rechercher des solutions contenant des configurations contenant des composants uniques. Si le bouton à bascule *Logic* vert est défini sur *ET*, vous pouvez rechercher des solutions contenant des configurations contenant tous les composants sélectionnés. Si plusieurs composants sont sélectionnés dans le même type de composant, le bouton est réglé sur *OU*.
+
+
+
+== Étapes
+
+. Cliquez sur *liste et recherche* sur la page d'accueil.
+. Recherchez un nom de composant dans *Component Explorer* ou développez la sélection pour ajouter des composants à la zone de travail *List and Find Component*.
++
+
+NOTE: Vous pouvez sélectionner des solutions activées spécifiques après avoir ajouté un composant à la zone de travail *liste et Rechercher un composant* avant de cliquer sur *Suivant*. Vous pouvez également exporter un maximum de 3000 lignes pour une solution à la fois dans une feuille de calcul Excel ou au format PDF.
+
+. Cliquez sur *Suivant* pour afficher l'emplacement d'utilisation des composants dans les configurations de plusieurs solutions sur la page *Résultats*. La configuration la plus compatible pour votre liste de composants s'affiche.
+

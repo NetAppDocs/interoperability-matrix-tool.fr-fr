@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: defining-and-entering-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Vous pouvez définir vos critères de recherche à l"aide d"une combinaison de composants, de solutions ou de catégories.' 
+---
+= Définissez et entrez les critères de recherche
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez définir vos critères de recherche à l'aide d'une combinaison de composants, de solutions ou de catégories. Matrice d'interopérabilité vous permet de saisir des critères de recherche en ajoutant des composants, des solutions ou des catégories. Vous pouvez saisir un critère de recherche à l'aide de la zone de texte de recherche, de l'explorateur de solutions ou de l'explorateur de composants.

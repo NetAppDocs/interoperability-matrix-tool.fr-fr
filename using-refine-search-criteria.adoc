@@ -1,0 +1,17 @@
+---
+sidebar: sidebar 
+permalink: using-refine-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: 'Affiner les critères de recherche vous permet d"explorer des configurations compatibles pour votre produit.' 
+---
+= Utilisez critères de recherche de raffinage
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*Affiner les critères de recherche* vous permet d'explorer des configurations compatibles pour votre produit. En sélectionnant des composants dans différentes catégories, vous pouvez restreindre les configurations qui résultent aux configurations souhaitées pour votre produit.
+
+
+NOTE: Les mots-clés *rack* et *Blade* sont affichés uniquement avec les composants dans *4.x*.

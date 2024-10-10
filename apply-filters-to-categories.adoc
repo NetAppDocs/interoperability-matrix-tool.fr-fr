@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: apply-filters-to-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Dans la page Affiner les critères de recherche, vous pouvez appliquer des filtres en sélectionnant des composants de différentes catégories. En appliquant des filtres, vous pouvez ajouter des composants aux critères de recherche et affiner les résultats de la configuration. 
+---
+= Appliquer des filtres aux catégories
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Dans la page *Affiner les critères de recherche*, vous pouvez appliquer des filtres en sélectionnant des composants de différentes catégories. En appliquant des filtres, vous pouvez ajouter des composants aux critères de recherche et affiner les résultats de la configuration.
+
+
+
+== Étapes
+
+. Sélectionnez les composants dans les catégories souhaitées sur la page *critères de recherche de raffinage*, en fonction de vos besoins. Dans chaque catégorie, vous pouvez rechercher des composants spécifiques et sélectionner le composant requis.
+. *Facultatif* : sélectionnez plusieurs composants dans différentes catégories pour affiner les résultats de la configuration.
+
+
+Selon la compatibilité des composants sélectionnés, certains composants peuvent ne pas être disponibles dans les catégories.

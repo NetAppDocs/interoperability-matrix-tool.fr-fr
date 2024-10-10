@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: deleting-tag-names.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Les configurations enregistrées peuvent être supprimées en supprimant le nom de la balise. 
+---
+= Supprimer les noms d'étiquettes
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez supprimer la balise entière des configurations enregistrées.
+
+
+
+== Description de la tâche
+
+Les configurations enregistrées peuvent être supprimées en supprimant le nom de la balise. Lorsque vous supprimez le nom de la balise, toutes les configurations associées à ces balises seront également supprimées.
+
+
+
+== Étapes
+
+. Cliquez sur *Favoris*.
+. Dans la boîte de dialogue *critères enregistrés*, cliquez sur l'onglet *configurations*.
+. Cliquez sur l'icône de suppression X dans la colonne *action*. La fenêtre contextuelle s'affiche pour vous demander si vous souhaitez supprimer ou non les balises enregistrées et les configurations associées.
+. Cliquez sur *Oui* pour supprimer les balises et les configurations associées.
+. Cliquez sur *non* pour conserver les balises et les configurations associées.
+

@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: using-subscription.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Le lien abonnement vous permet de vous abonner à la solution de stockage, à la catégorie ou au composant. Si vous avez souscrit à une solution, une catégorie ou un composant de stockage particulier, vous recevrez un e-mail uniquement si des modifications sont apportées aux solutions, catégories ou composants souscrits. 
+---
+= Utiliser l'abonnement
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Le lien *abonnement* vous permet de vous abonner à *solution de stockage, catégorie ou composant*. Si vous avez souscrit à une solution, une catégorie ou un composant de stockage particulier, vous recevrez un e-mail uniquement si des modifications sont apportées aux solutions, catégories ou composants souscrits.
+
+Vous recevrez des e-mails pour les abonnements suivants :
+
+. *Solution de stockage* : lorsque les modifications sont effectuées dans la mise à jour de l'état, les catégories associées ou dissociées et les configurations ajoutées ou supprimées.
+. *Catégorie* : lorsque les composants sont ajoutés ou supprimés de la catégorie.
+. *Composant* : lorsque les modifications sont effectuées dans le nom d'affichage du composant ou de l'état du composant.
++
+
+NOTE: Vous recevrez un e-mail en fonction du type de fréquence sélectionné. Les deux types de fréquence sont les suivants :
+
++
+** Immédiatement : vous recevrez un e-mail dès que des modifications seront apportées aux solutions, catégories ou composants auxquels vous êtes abonné.
+** Digest : vous recevrez un e-mail cumulé tous les sept jours, reflétant toutes les modifications apportées aux solutions, catégories ou composants souscrits.
+
+
+

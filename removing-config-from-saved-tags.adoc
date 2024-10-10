@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: removing-config-from-saved-tags.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Vous pouvez supprimer ou mettre à jour la configuration enregistrée dont vous n"avez pas besoin.' 
+---
+= Supprimer la configuration des balises enregistrées
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez supprimer ou mettre à jour la configuration enregistrée dont vous n'avez pas besoin.
+
+
+
+== Description de la tâche
+
+Si vous avez enregistré la configuration à partir des résultats, vous pouvez la supprimer si vous n'en avez plus besoin pour référence.
+
+
+
+== Étapes
+
+. Cliquez sur l'icône en forme d'étoile jaune pour supprimer ou mettre à jour la configuration enregistrée.
+. Cliquez sur *Supprimer* pour supprimer la configuration enregistrée. Après avoir cliqué sur le bouton Supprimer dans la fenêtre contextuelle, l'icône en forme d'étoile passe du jaune au blanc.
+

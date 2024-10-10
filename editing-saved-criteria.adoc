@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: editing-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Vous pouvez modifier les critères de recherche enregistrés précédemment. 
+---
+= Modifier les critères enregistrés
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez modifier les critères de recherche enregistrés précédemment. Vous pouvez ajouter de nouveaux composants aux critères enregistrés ou supprimer le composant des critères enregistrés existants.
+
+
+
+== Avant de commencer
+
+Vous devez charger les critères enregistrés pour les modifier.
+
+
+
+== Étapes
+
+. Chargez les critères enregistrés, cliquez sur le lien critères enregistrés.
+. Cliquez sur le lien *Affiner les critères de recherche*. Vous pouvez ajouter ou supprimer les critères des critères enregistrés.
+

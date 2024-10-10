@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: refine-serach-page-to-verify-compatibility.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'L"outil Interoperability Matrix Tool vous permet d"explorer les configurations compatibles pour votre produit à partir de la page *Affiner les critères de recherche*.' 
+---
+= La page Affiner les critères de recherche pour vérifier la compatibilité
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+L'outil Interoperability Matrix Tool vous permet d'explorer les configurations compatibles pour votre produit à partir de la page *Affiner les critères de recherche*. Vous pouvez réduire les résultats de configuration de cette page aux configurations souhaitées pour votre produit.
+
+Vous pouvez naviguer jusqu'à la page *critères de recherche de raffinage* à partir de la page critères de recherche initiaux, uniquement si les critères que vous avez saisis ont des configurations prises en charge. La page *Affiner les critères de recherche* est divisée en deux volets :
+
+* *Critères de recherche* : affiche les solutions, les composants et les filtres ajoutés aux critères de recherche. Vous pouvez modifier les critères de recherche initiaux pour afficher les résultats de configuration requis. Vous pouvez cocher *Modifier les critères* pour revenir à la page *critères de recherche* et modifier les critères de recherche initiaux. Vous pouvez vérifier l'onglet *Dynamic Filtering* pour voir immédiatement la compatibilité entre les composants. Vous pouvez décocher l'onglet *Dynamic Filtering* pour ajouter plusieurs composants et cliquer sur *Update* count. Vous pouvez cocher *essayer une autre méthode* pour accéder à la page d'accueil.
+* *Affiner les critères de recherche* : affiche la liste des composants sous différentes catégories. Les catégories répertoriées dans ce volet dépendent des critères de recherche et des configurations compatibles.
++
+** Si vous avez inclus une solution dans les critères de recherche initiaux, vous pouvez sélectionner des composants de cette catégorie spécifique sur la page Affiner *critères de recherche* ainsi que des composants d'autres catégories.
+** Si vous avez inclus des composants spécifiques dans les critères de recherche initiaux, vous ne pouvez pas désélectionner les composants inclus dans les critères de recherche initiaux de la page *critères de recherche de raffinage*, mais vous pouvez sélectionner d'autres composants dans d'autres catégories.
+
+
+
+
+Dans chaque catégorie, vous pouvez utiliser l'icône de filtre pour afficher la zone de texte de recherche et rechercher un composant spécifique. Si vous souhaitez réinitialiser ou effacer les sélections de composants dans le volet *critères de recherche*, cliquez sur *Effacer tout*.
+
+Selon les composants sélectionnés dans les différentes catégories, le nombre de résultats de la configuration peut varier. Plus vous sélectionnez de composants, plus l'outil Interoperability Matrix Tool réduit les résultats de recherche et vous permet d'afficher la configuration souhaitée pour votre produit.

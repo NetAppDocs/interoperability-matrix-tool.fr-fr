@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: finding-compatible-host-os.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os, matrix 
+summary: 'Vous pouvez utiliser la matrice d"interopérabilité pour afficher les systèmes d"exploitation hôtes compatibles avec votre produit.' 
+---
+= Trouvez un système d'exploitation hôte compatible avec vos produits
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez utiliser la matrice d'interopérabilité pour afficher les systèmes d'exploitation hôtes compatibles avec votre produit.
+
+Le flux de travail est illustré ci-dessous :
+
+image::pg12_imt.png[pg12 IMT]

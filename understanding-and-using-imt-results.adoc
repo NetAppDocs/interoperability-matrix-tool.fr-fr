@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: understanding-and-using-imt-results.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Matrice d"interopérabilité vous permet d"afficher et d"exporter les résultats pour les configurations qui répondent à vos exigences.' 
+---
+= Comprendre et utiliser les résultats de l'outil Interoperability Matrix Tool
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Matrice d'interopérabilité vous permet d'afficher et d'exporter les résultats pour les configurations qui répondent à vos exigences. À partir de la page *Résultats*, vous pouvez créer une vue de bout en bout en choisissant une solution associée compatible avec la configuration sélectionnée. De plus, vous pouvez utiliser la fonction *What If* pour mettre à niveau ou rétrograder un composant dans une configuration.

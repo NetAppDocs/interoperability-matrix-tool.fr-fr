@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: finding-compatible-with-hba-cards.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, compatible, hba, cards 
+summary: 'Vous pouvez utiliser la matrice d"interopérabilité pour afficher le système d"exploitation hôte pris en charge pour une configuration telle que la carte Cisco UCS P81E sur FCoE.' 
+---
+= Déterminez la compatibilité avec les cartes HBA
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Avec la fonction *hôte SAN ONTAP simplifié*, l'interface utilisateur est simplifiée et condensée en trois composants ; il y avait treize composants dans les versions précédentes de l'interface utilisateur. Les dix composants restants sont implicitement pris en charge par NetApp, à condition qu'ils soient pris en charge par les fournisseurs respectifs. *Les notes* et *alertes* sont classées par solution et sont ajoutées à chaque résultat.
+
+La matrice d'interopérabilité (IMT) prend en charge trois composants : le système d'exploitation ONTAP, le système d'exploitation hôte et le protocole.
+
+IMT permet de vérifier la compatibilité du système d'exploitation hôte avec ONTAP.
+
+Par exemple, validez la Cisco prise en charge du serveur lame Cisco UCS (Unified Computing System) avec ONTAP à l'aide de la configuration suivante :
+
+*Exemple de configuration de serveur lame Cisco UCS*
+
+* Se ONTAP : 9.13.1
+* Système d'exploitation hôte : Red Hat Enterprise Linux 9.2
+* Modèle de serveur : serveur lame Cisco UCS B200 M6
+* Adaptateur de bus hôte (HBA)
++
+** Modèle : Cisco UCSB-MLOM-40G-04 : carte d'interface virtuelle Cisco UCS 1440
+** Version du pilote : 1.6.0.53 fnic
+** Version du micrologiciel : 5.3(2)
+
+
+* Firmware du serveur UCS : 5.2(0)
+* Protocole : FCoE
+
+
+*Valider la prise en charge du serveur lame Cisco UCS*
+
+* Utilisez la fonctionnalité *hôte SAN simplifié* de ONTAP dans IMT pour vérifier que ONTAP 9.13.1, Red Hat Enterprise Linux 9.2 et le protocole FCoE sont répertoriés comme configurations prises en charge.
+* Les fournisseurs de cartes HBA pris en charge par NetApp sont Broadcom, Marvell et Cisco. Cisco est inclus dans la liste des cartes prises en charge, ce qui implique que la carte d'interface virtuelle (VIC) Cisco est également prise en charge.
+* Utilisez la liste de compatibilité matérielle (HCL) du fournisseur pour vérifier la compatibilité matérielle et logicielle Cisco. Comme indiqué dans la liste de configuration de serveur précédente, vérifiez que le modèle de carte HBA, la version du micrologiciel du serveur UCS et les versions du pilote HBA et du micrologiciel sont pris en charge par Red Hat Enterprise Linux 9.2.
+

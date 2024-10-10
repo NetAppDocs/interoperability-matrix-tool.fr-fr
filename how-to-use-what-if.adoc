@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: how-to-use-what-if.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: '*Et si* vous permet d"explorer toutes les configurations possibles prises en charge.' 
+---
+= Comment utiliser et si
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*Et si* vous permet d'explorer toutes les configurations possibles prises en charge. Vous pouvez utiliser la fonction *What If* pour mettre à niveau ou rétrograder un composant dans une configuration sélectionnée et explorer la compatibilité. Pour afficher toutes les configurations prises en charge après la mise à niveau ou la rétrogradation d'un composant, vous pouvez utiliser l'option *Export* pour exporter les détails de la configuration vers une feuille de calcul Excel ou un PDF.
+
+Après avoir sélectionné un composant spécifique à mettre à niveau ou à rétrograder dans la fenêtre *What If*, vous pouvez afficher si le composant sélectionné est compatible avec d'autres composants de la configuration ou s'il n'y a pas de configuration correspondante. Si aucune configuration ne correspond, vous devez envisager d'étendre les critères initiaux pour dériver davantage de configurations.
+
+La fenêtre *What If* est divisée en deux volets :
+
+* Le volet supérieur indique si un composant sélectionné correspond à une configuration valide.
+* Le volet inférieur affiche les différentes catégories et les versions des composants respectifs.
+
+
+Si vous ne trouvez pas la configuration souhaitée, cliquez sur *Feedback* pour signaler un problème.
+
+Pour plus d'informations, voir link:reporting-an-issue.html["Signalez les problèmes"].

@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: saving-a-recent-search.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: À partir de la page Bienvenue dans IMT, vous pouvez enregistrer vos recherches récentes afin de conserver les critères pour les recherches ultérieures. 
+---
+= Enregistrer une recherche récente
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+À partir de la page Bienvenue dans IMT, vous pouvez enregistrer vos recherches récentes afin de conserver les critères pour les recherches ultérieures.
+
+
+
+== Étapes
+
+. Cliquez sur *recherche de solution* ou *recherche avancée*.
+. Sélectionnez des critères de recherche.
+. Sélectionnez *passer aux résultats* ou cliquez sur *Suivant* pour affiner vos critères de recherche, puis accédez à la page *Afficher les configurations prises en charge* (résultats). Une boîte de dialogue contextuelle vous informe que vos critères sont automatiquement enregistrés.
+

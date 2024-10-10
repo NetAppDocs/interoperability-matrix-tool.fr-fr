@@ -1,0 +1,20 @@
+---
+sidebar: sidebar 
+permalink: get-more-information.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, search 
+summary: 'Vous pouvez obtenir de l"aide et trouver plus d"informations par le biais de diverses ressources, de la documentation et des forums.' 
+---
+= En savoir plus
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez obtenir de l'aide et trouver plus d'informations par le biais de diverses ressources, de la documentation et des forums.
+
+* https://docs.netapp.com/ontap-9/index.jsp["Documentation"^] – Notes de mise à jour et guides pour cette version et les versions précédentes.
+* https://www.youtube.com/playlist?list=PLdXI3bZJEw7moxyCCpO4p4G-73NN6q4RH["Formation NetApp sur YouTube"^] – Vidéos NetApp.
+* https://www.netapp.com/["Ressources NetApp"^] – Rapports techniques et articles de la base de connaissances. Envisagez de rechercher « IMT ».
+* https://community.netapp.com/["Communauté NetApp"^] – Forums sur les produits et solutions NetApp. Envisagez de rechercher « IMT ».
+

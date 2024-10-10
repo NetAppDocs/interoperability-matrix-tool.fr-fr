@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-components.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Vous pouvez vous abonner à un ou plusieurs composants de votre choix. 
+---
+= S'abonner aux composants
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez vous abonner à un ou plusieurs composants de votre choix.
+
+
+
+== Description de la tâche
+
+Vous recevrez une notification par e-mail lorsque des modifications sont apportées au nom d'affichage du composant ou à l'état du composant.
+
+
+
+== Étapes
+
+. Cliquez sur le lien *abonnement* dans le menu d'en-tête.
+. Dans la fenêtre d'abonnement, sélectionnez l'onglet *composant*.
+. Pour vous abonner au composant de votre choix, cochez la case de l'option *attribut mis à jour*.
+. Dans le champ *fréquence*, sélectionnez *immédiat* ou *Digest*.
++
+
+NOTE: La sélection par défaut est *immédiat*.
+
+. Cliquez sur *s'abonner* pour obtenir les abonnements pour les composants auxquels vous êtes abonné.
++
+
+NOTE: Vous pouvez cliquer sur *Réinitialiser* pour effacer toutes les sélections de l'onglet *composant*.
+
+

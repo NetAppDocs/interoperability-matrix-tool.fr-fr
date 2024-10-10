@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: working-with-advanced-search.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, advanced, search 
+summary: 'Vous pouvez rechercher différents composants à l"aide de *recherche avancée* et ajouter ou supprimer des composants de vos critères de recherche.' 
+---
+= Utilisation de la recherche avancée
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez rechercher différents composants à l'aide de la fonction *recherche avancée* pour ajouter ou supprimer des composants de vos critères de recherche. Vous pouvez utiliser la zone de texte de recherche dans la fenêtre *recherche avancée* pour rechercher des composants.
+
+Vous pouvez utiliser les filtres suivants si nécessaire :
+
+* Sélectionnez *ne pas afficher les composants de support limité* pour éviter de voir les composants avec un support limité dans les résultats.
+* Sélectionnez *ne pas afficher les composants EOVS* pour éviter de voir les composants avec prise en charge de la fin de version dans les résultats.
+
+
+À partir de cette page, vous pouvez également afficher *Component Explorer, Charger les critères ou configurations enregistrés*, ou utiliser *Search Assistant*.

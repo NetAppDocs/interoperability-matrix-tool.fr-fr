@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: deleting-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Vous pouvez supprimer les critères de recherche enregistrés. 
+---
+= Supprimer les critères enregistrés
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez supprimer les critères de recherche enregistrés.
+
+
+
+== Description de la tâche
+
+Vous devez avoir le nom des critères enregistrés pour pouvoir supprimer les critères enregistrés.
+
+
+
+== Étapes
+
+. Cliquez sur l'icône de suppression *X* dans la colonne *action*. La fenêtre contextuelle s'affiche pour vous demander si vous souhaitez supprimer ou non les critères enregistrés.
+. Cliquez sur *Oui* pour supprimer les critères enregistrés.
+. Cliquez sur *non* pour conserver les critères enregistrés.
+

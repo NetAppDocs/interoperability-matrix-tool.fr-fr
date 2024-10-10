@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: saved-search-capabilities.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, search, criteria, solution , explorer 
+summary: 'Vous pouvez charger différentes solutions ou configurations à l"aide du menu *recherche enregistrée*, qui vous permet de naviguer vers les résultats de recherche précédemment enregistrés, les résultats de recherche récents et les configurations enregistrées.' 
+---
+= Fonctions de recherche enregistrées
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez charger différentes solutions ou configurations à l'aide du menu *recherche enregistrée*, qui vous permet de naviguer vers les résultats de recherche précédemment enregistrés, les résultats de recherche récents et les configurations enregistrées.
+
+L'onglet *critères de recherche* contient vos recherches enregistrées. Dans cet onglet, vous pouvez partager des recherches ou afficher des recherches que d'autres ont partagées avec vous. L'onglet *Configuration* contient vos configurations enregistrées. Dans cet onglet, vous pouvez partager des configurations ou afficher des configurations que d'autres ont partagées avec vous.
+
+L'onglet *recherche récente* contient les 30 derniers ensembles de critères de recherche, du plus récent au plus ancien. Il répertorie également le *flux de recherche* qui indique la page d'origine, qui peut être *liste et recherche, Explorateur de solutions ou recherche avancée*. Les critères sont enregistrés automatiquement. Cette page répertorie également la *dernière date de modification* d'une recherche enregistrée ou récente. Vous pouvez *charger* une recherche dans la liste pour afficher les critères ou les configurations respectivement.

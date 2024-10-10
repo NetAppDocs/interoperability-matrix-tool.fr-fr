@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: solution-reports.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, component, EOVS, Summary 
+summary: Vous pouvez afficher et télécharger des versions Excel ou PDF des rapports de solutions. 
+---
+= Rapports sur les solutions
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez afficher et télécharger des versions Excel ou PDF de rapports de solutions à l'aide de la fonction *Rapports > exportations quotidiennes complètes*. Vous pouvez également télécharger la version Excel du *Component EOVS Summary*, qui répertorie les composants qui ont atteint la fin de la prise en charge de la version.

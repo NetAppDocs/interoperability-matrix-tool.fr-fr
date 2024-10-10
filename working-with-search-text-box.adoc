@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: working-with-search-text-box.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: 'Vous pouvez rechercher des composants, des solutions, des catégories et des configurations à l"aide de la zone de texte de recherche. En fonction du texte que vous saisissez, la zone de texte de recherche affiche les correspondances possibles que vous pouvez inclure dans les critères de recherche.' 
+---
+= Utiliser la zone de texte de recherche
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez rechercher des composants, des solutions, des catégories et des configurations à l'aide de la zone de texte de recherche. En fonction du texte que vous saisissez, la zone de texte de recherche affiche les correspondances possibles que vous pouvez inclure dans les critères de recherche.

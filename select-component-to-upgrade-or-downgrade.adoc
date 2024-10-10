@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: select-component-to-upgrade-or-downgrade.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Vous pouvez utiliser la fonction What If de la page *Results* pour mettre à niveau ou rétrograder un composant de la configuration de votre produit. Vous pouvez modifier les composants et explorer la compatibilité. 
+---
+= Sélectionnez un composant à mettre à niveau ou à rétrograder
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez utiliser la fonction *What If* de la page *Results* pour mettre à niveau ou rétrograder un composant dans la configuration de votre produit. Vous pouvez modifier les composants et explorer la compatibilité.
+
+.Étapes
+. Cliquez sur *What If* pour afficher les composants que vous pouvez mettre à niveau ou rétrograder pour modifier la configuration sélectionnée.
+. Cliquez sur une catégorie pour afficher les composants disponibles pour la mise à niveau ou la mise à niveau vers une version antérieure.
+. Dans la fenêtre Options disponibles, vous pouvez rechercher une version de composant spécifique et la sélectionner.
+. Si le composant sélectionné est une configuration valide et compatible avec votre configuration antérieure, le message de compatibilité s'affiche. Vous pouvez maintenant exporter les résultats pour afficher toutes les configurations prises en charge.
+

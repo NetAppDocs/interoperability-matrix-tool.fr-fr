@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-storage-solutions.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: Vous pouvez vous abonner à une ou plusieurs solutions de stockage de votre choix. 
+---
+= Abonnez-vous aux solutions de stockage
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez vous abonner à une ou plusieurs solutions de stockage de votre choix.
+
+
+
+== Description de la tâche
+
+Les deux types d'abonnement sont les suivants :
+
+. *Immédiat* : vous recevrez un e-mail dès qu'il y aura des modifications apportées à la solution souscrite.
+. *Digest* : vous recevrez un e-mail accumulé dans les sept jours, reflétant toutes les modifications apportées aux solutions souscrites.
+
+
+
+
+== Étapes
+
+. Cliquez sur le lien *abonnement* dans le menu d'en-tête.
+. Dans la fenêtre *abonnement*, sélectionnez l'onglet *solution de stockage*.
+. Pour les solutions de stockage de votre choix, cochez les cases des options *mise à jour de l'état de la solution, catégories associées ou dissociées, ou configurations ajoutées ou supprimées*.
++
+Vous recevrez des e-mails dans les cas suivants :
+
++
+** Lorsque l'état des solutions est modifié ou mis à jour.
+** Lorsque certaines catégories sont ajoutées ou supprimées de la solution
+** Lorsque certaines configurations sont ajoutées ou supprimées de la solution
+
+
+. Dans le champ *fréquence*, sélectionnez *immédiat* ou *Digest*.
++
+
+NOTE: La sélection par défaut est *immédiat*.
+
+. Cliquez sur *s'abonner* pour vous abonner aux solutions que vous avez sélectionnées.
++
+
+NOTE: Vous pouvez cliquer sur *Réinitialiser* pour effacer toutes les sélections de l'onglet *solution de stockage*.
+
+

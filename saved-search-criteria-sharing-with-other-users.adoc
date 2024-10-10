@@ -1,0 +1,89 @@
+---
+sidebar: sidebar 
+permalink: saved-search-criteria-sharing-with-other-users.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Vous pouvez partager vos critères avec les autres utilisateurs. 
+---
+= Partage des critères de recherche enregistrés avec d'autres utilisateurs
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+À partir de la page *Affiner les critères de recherche*, vous pouvez partager vos critères de *recherche enregistrée* avec d'autres utilisateurs.
+
+Les trois méthodes suivantes permettent d'enregistrer et de partager les critères de recherche :
+
+* <<Partagez les critères lors de l'enregistrement>>
+* <<Partagez les critères après l'enregistrement>>
+* <<Afficher les critères partagés>>
+
+
+
+
+== Partagez les critères lors de l'enregistrement
+
+À partir de la page critères de recherche de raffinage, vous pouvez partager les critères de recherche pendant l'enregistrement.
+
+
+
+=== Avant de commencer
+
+Vous devez ajouter les solutions et les composants sur la première page pour partager les critères lors de l'enregistrement.
+
+
+
+=== Étapes
+
+. Cochez la case partager pour partager les critères de recherche enregistrés.
+. Entrez le nom d'utilisateur dans la zone de texte pour la recherche d'utilisateur et cliquez sur Ajouter des utilisateurs.
++
+
+NOTE: Si le nom d'utilisateur n'existe pas, un message de validation s'affiche.
+
+. Vous pouvez effectuer une recherche tout en utilisant l'option de recherche d'utilisateur et soumettre pour partager des critères.
+
+
+
+
+== Partagez les critères après l'enregistrement
+
+À partir de la page critères de recherche de raffinage, vous pouvez partager les critères de recherche après l'enregistrement.
+
+
+
+=== Avant de commencer
+
+Vous devez ajouter les solutions et composants de recherche enregistrés sur la première page pour partager les critères après l'enregistrement.
+
+
+
+=== Étapes
+
+. Cliquez sur l'option de recherche enregistrée dans la page d'accueil.
+. Cliquez sur partager pour partager les critères avec d'autres personnes.
+. Entrez le nom d'utilisateur dans la zone de texte pour rechercher les utilisateurs et cliquez sur Envoyer.
+
+
+
+
+== Afficher les critères partagés
+
+
+
+=== Avant de commencer
+
+Vous devez enregistrer les solutions et les composants dans la recherche enregistrée.
+
+
+
+=== Étapes
+
+. Vous pouvez afficher les critères que vous avez partagés avec d'autres utilisateurs en définissant l'option de recherche enregistrée par défaut.
+. Sélectionnez Nom d'utilisateur dans la colonne partagé par pour afficher les critères partagés.
+. Une notification par e-mail sera envoyée aux utilisateurs partagés pour les informer du partage.
+
+
+
+NOTE: La mise à jour des critères d'origine n'aura aucune incidence sur les critères partagés. Elles sont considérées comme des entités distinctes.

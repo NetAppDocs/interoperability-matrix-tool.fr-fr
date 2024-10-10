@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: create-end-to-end-view-for-selected-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Matrice d"interopérabilité vous permet de créer une vue de bout en bout pour une configuration spécifique, en sélectionnant les solutions associées compatibles avec la configuration.' 
+---
+= Créer une vue de bout en bout pour une configuration sélectionnée
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Matrice d'interopérabilité vous permet de créer une vue de bout en bout pour une configuration spécifique, en sélectionnant les solutions associées compatibles avec la configuration. Vous pouvez utiliser la fonction *construire une vue de bout en bout avec* de la page *Résultats* pour créer une vue de bout en bout pour une configuration.
+
+
+
+== Description de la tâche
+
+Vous pouvez créer une vue de bout en bout pour une configuration spécifique uniquement à partir de la page *Résultats*.
+
+
+
+== Étapes
+
+. Dans la page *Résultats* d'une configuration spécifique, cliquez sur la liste déroulante *construire de bout en bout avec*.
+. Dans la liste déroulante, sélectionnez les solutions requises qui sont répertoriées comme compatibles avec cette configuration spécifique. Les solutions qui ne sont pas compatibles avec cette configuration spécifique sont grisées.
+. IMT affiche un nouvel onglet dans la page *Résultats*, indiquant la configuration modifiée. Selon vos besoins, vous pouvez choisir d'inclure des solutions supplémentaires à l'aide de la fonction *construire une vue de bout en bout avec* ou d'exporter les configurations.
+

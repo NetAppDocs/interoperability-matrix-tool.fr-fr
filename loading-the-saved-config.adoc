@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: loading-the-saved-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Vous pouvez charger les configurations précédemment enregistrées à partir de la page d"accueil. Vous pouvez afficher le nom de la balise, la description, le nom de la solution de la configuration enregistrée.' 
+---
+= Charger la configuration enregistrée
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez charger les configurations précédemment enregistrées à partir de la page d'accueil. Vous pouvez afficher le nom de la balise, la description, le nom de la solution de la configuration enregistrée.
+
+
+
+== Avant de commencer
+
+Vous pouvez charger la configuration spécifique en recherchant le nom que vous avez spécifié pour cette configuration particulière.
+
+
+
+== Description de la tâche
+
+Si vous avez déjà enregistré la configuration, vous pouvez les charger ultérieurement à tout moment.
+
+
+
+== Étapes
+
+. Sur la page d'accueil, cliquez sur l'option *Saved Search* pour charger la configuration enregistrée.
+. Dans l'onglet *Configuration enregistrée*, cliquez sur configuration.
+. Le nom de la configuration s'affiche lorsque vous passez le curseur de la souris sur la configuration enregistrée.
+. Cliquez sur *Tag Name* et chargez la configuration.
+. Cliquez sur le lien *Afficher les détails* pour accéder à la page Résultats.
+

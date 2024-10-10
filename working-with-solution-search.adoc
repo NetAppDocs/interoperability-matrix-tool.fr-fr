@@ -1,0 +1,88 @@
+---
+sidebar: sidebar 
+permalink: working-with-solution-search.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 'Vous pouvez rechercher différentes solutions de stockage et ajouter ou supprimer des solutions de vos critères de recherche. Vous pouvez utiliser la zone de texte de recherche de la page recherche de solutions pour rechercher une solution spécifique. Les solutions fréquemment utilisées s"affichent dans le champ recherche de solutions.' 
+---
+= Utilisation de la recherche de solutions
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez rechercher différentes solutions de stockage et ajouter ou supprimer des solutions de vos critères de recherche. Vous pouvez utiliser la zone de texte de recherche de la page *recherche de solution* pour rechercher une solution spécifique. Les solutions fréquemment utilisées sont affichées dans le champ *recherche de solution*.
+
+
+
+== Description de la tâche
+
+La page *solution Search* comprend un onglet *solution Catalog* et un onglet *Mapping Assistant*. Dans l'onglet *Assistant de mappage*, vous pouvez voir la catégorie d'une solution sélectionnée en sélectionnant *carte par catégorie* ou *carte par solution*.
+
+
+
+=== Catalogue de solutions
+
+Dans l'onglet *Catalogue de solutions*, vous pouvez *Filtrer les solutions* à l'aide de la barre de filtre.
+
+Vous pouvez également sélectionner les configurations *inclure PVR requis, EOS et Obsolète* si vous souhaitez inclure de telles configurations.
+
+
+
+=== Assistant de mappage
+
+Les deux types de modes de zone de travail sont les suivants :
+
+* *Carte par catégorie* : vous pouvez sélectionner une catégorie parmi les catégories répertoriées et activer toutes les solutions contenant la catégorie sélectionnée, avec des solutions valides en haut de la liste. Vous pouvez ajouter une ou plusieurs solutions activées de votre choix. Vous pouvez utiliser la zone de texte *Search Categories* pour rechercher une catégorie spécifique.
+* *Carte par solution* : vous pouvez sélectionner une solution parmi les solutions répertoriées et activer toutes les solutions contenant la solution sélectionnée, avec des solutions valides en haut de la liste. Vous pouvez ajouter une ou plusieurs solutions activées de votre choix. Vous pouvez utiliser la zone de texte *Search Solutions* pour rechercher une catégorie spécifique.
+
+
+Vous pouvez également sélectionner les configurations *inclure PVR requis, EOS et Obsolète* si vous souhaitez inclure de telles configurations.
+
+Lorsque vous avez terminé, vous pouvez voir les éléments que vous avez sélectionnés sous *Solutions de stockage sélectionnées*. *Cliquez sur Afficher les critères de recherche de raffinage* ou sur *passer aux résultats*.
+
+
+
+=== Recherche guidée
+
+*Recherche guidée* est activée lorsque vous sélectionnez une solution. Le *Guided Search* fournit un flux de travail guidé pour affiner un critère.
+
+
+
+== Étapes
+
+. Cliquez sur *recherche de solution* sur la page d'accueil.
+. Sélectionnez la vue que vous souhaitez utiliser :
++
+.. Cliquez sur la vue *Expert* pour afficher les options de critères avancés.
+.. Cliquez sur *Affichage guidé* pour afficher les options de critères simplifiés et guidés.
+
+
+. Dans la vue *Novice*, sélectionnez les options de critères de recherche telles qu'elles s'affichent :
++
+.. Cliquez sur *Ignorer* pour passer au composant suivant sans faire de sélection. Vous pouvez revenir au composant en cliquant sur *Unskip* selon vos besoins.
+.. Après les cinq premières sélections, cliquez sur *Afficher plus* pour continuer à affiner vos critères de recherche. Vous pouvez revenir à la vue précédente en cliquant sur *Afficher moins*.
+.. Lorsque vous avez terminé, cliquez sur *Afficher les résultats* pour afficher les configurations prises en charge pour vos critères de recherche.
+
+
+. Dans la vue *Expert*, sélectionnez les critères de recherche que vous souhaitez utiliser pour les différents composants. Nous vous recommandons de vous déplacer de gauche à droite car chaque sélection affine les critères restants. Il n'est pas nécessaire d'effectuer une sélection pour chaque composant.
++
+.. Lorsque vous avez terminé, cliquez sur *Afficher les résultats* pour afficher les configurations prises en charge pour vos critères de recherche.
+
+
+. Vous pouvez également effectuer les opérations suivantes dans le cadre de *recherche de solution* :
++
+.. Cliquez sur l'icône de livre pour afficher la politique et les directives applicables à votre sélection.
+.. Cliquez sur l'icône de chaîne pour générer une URL partageable pour vos sélections que vous pouvez partager avec d'autres.
+.. Sélectionnez l'icône Annuler pour effacer toutes vos sélections et recommencer.
+
+
+. Dans l'écran des résultats, vous pouvez effectuer les opérations suivantes :
++
+.. Afficher les détails, les alertes et les informations relatives à votre configuration.
+.. Cliquez sur l'icône en forme d'étoile pour faire de cette recherche un favori. Nommer et décrire la configuration. Cette recherche est enregistrée et peut être consultée à partir du menu recherche enregistrée. Vous pouvez également vous abonner à la configuration ici, qui vous informera lorsque des modifications seront apportées. Si vous vous abonnez, vous verrez également ceci dans le menu *abonnements*.
+.. Passez la souris sur la vue *Build End to End avec* pour trouver d'autres solutions prises en charge.
+.. Cliquez sur *What if* pour modifier les composants et explorer d'autres options de compatibilité.
+
+
+

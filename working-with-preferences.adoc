@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: working-with-preferences.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, list, find, component, explorer 
+summary: Vous pouvez utiliser la liste des préférences et rechercher les préférences de catégorie pour enregistrer vos catégories favorites. 
+---
+= Utilisation des préférences
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Le menu *Préférences liste et recherche Préférences catégorie* ouvre la page *liste et recherche Préférences catégorie*, où vous pouvez enregistrer vos catégories favorites en haut de la liste *liste et recherche Explorateur de composants*.
+
+
+
+== Description de la tâche
+
+Vous pouvez utiliser la page *liste et Préférences de recherche de catégorie* pour sélectionner vos catégories favorites. Ces catégories apparaissent en haut de la liste *List and Find Component Explorer* et sont encadrées en rouge.
+
+
+
+== Étapes
+
+. Cliquez sur *liste des préférences et recherchez Préférences de catégorie* sur la page d'accueil. La page *Préférences de la liste et de la catégorie de recherche* s'ouvre.
+. Sélectionnez les catégories que vous souhaitez enregistrer comme favoris. Vous pouvez faire défiler la liste ou rechercher des catégories dans le champ *catégories de recherche*. Vous pouvez sélectionner autant de catégories que nécessaire.
+. Cliquez sur *Enregistrer* pour conserver vos préférences. Si nécessaire, vous pouvez cliquer sur *Réinitialiser* pour effacer la liste des préférences existantes.
+. Pour afficher vos préférences, cliquez sur *Accueil*, puis sur *liste et recherche*. Vos catégories favorites apparaissent en haut de *Component Explorer*, en rouge.
+

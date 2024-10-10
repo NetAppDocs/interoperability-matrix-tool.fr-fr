@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: the-activeiq-interop-advisor-tool.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'L"outil Active IQ Interop Advisor vous permet de générer un rapport de compatibilité lorsque vous effectuez une recherche à l"aide de critères spécifiques.' 
+---
+= L'outil Active IQ Interop Advisor pour déterminer la compatibilité
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+L'outil *Active IQ Interop Advisor* vous permet de générer un rapport de compatibilité lorsque vous effectuez une recherche à l'aide de critères spécifiques.
+
+Vous pouvez effectuer une recherche selon l'un des critères suivants :
+
+* Numéro de série
+* ID de cluster
+* ID de tâche OneCollect
+
+
+Vous trouverez les informations des critères de recherche précédents dans *MyAutoSupport*.

@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: building-end-to-end-compatibility.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: 'Vous pouvez utiliser la matrice d"interopérabilité pour créer une vue de compatibilité de bout en bout sur tous les produits.' 
+---
+= Assurer une compatibilité de bout en bout entre les produits
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez utiliser la matrice d'interopérabilité pour créer une vue de compatibilité de bout en bout sur tous les produits.
+
+Le flux de travail est illustré ci-dessous :
+
+image::pg17_imt.png[pg17 IMT]

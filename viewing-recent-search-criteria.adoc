@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: viewing-recent-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Sur la page Bienvenue dans IMT, vous pouvez charger les critères de recherche enregistrés pour afficher vos recherches récentes. 
+---
+= Afficher les critères de recherche récents
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sur la page *Bienvenue dans IMT*, vous pouvez charger les critères de recherche enregistrés pour afficher vos recherches récentes.
+
+
+
+== Avant de commencer
+
+Vous devez avoir enregistré vos recherches récentes.
+
+
+
+== Étapes
+
+. Cliquez sur *recherche enregistrée*.
+. Sélectionnez l'onglet *recherche récente* pour afficher les recherches récemment enregistrées. Vos recherches récentes s'affichent.
+. Sélectionnez l'onglet *critères de recherche* pour afficher vos critères de recherche enregistrés spécifiques. Vos critères enregistrés s'affichent.
+

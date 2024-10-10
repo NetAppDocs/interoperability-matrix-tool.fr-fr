@@ -1,0 +1,48 @@
+---
+sidebar: sidebar 
+permalink: add-solutions-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Vous pouvez ajouter des solutions à vos critères de recherche à l"aide de la zone de texte de recherche ou de la recherche de solutions.' 
+---
+= Ajoutez des solutions aux critères de recherche
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez ajouter des solutions à vos critères de recherche à l'aide de la zone de texte de recherche ou de la fonction *recherche de solution*.
+
+
+
+== Description de la tâche
+
+Si vous connaissez les solutions spécifiques à ajouter aux critères de recherche, vous pouvez entrer les noms des solutions dans la zone de texte de recherche. Vous pouvez utiliser *recherche de solution* si vous n'êtes pas sûr de la solution à ajouter aux critères de recherche.
+
+Si vous souhaitez effacer les solutions incluses dans les critères de recherche, vous pouvez cliquer sur *Effacer tout* dans le coin supérieur droit.
+
+
+
+=== Étapes
+
+. Sur la page d'accueil de l'outil Interoperability Matrix Tool, entrez le nom de la solution dans la zone de texte de recherche pour afficher les correspondances possibles.
++
+.. Cliquez sur *Ajouter* pour inclure la solution aux critères de recherche.
+
+
+. Facultatif. Vous pouvez inclure une solution aux critères de recherche à l'aide de la fonction *recherche de solution*.
++
+.. Cliquez sur *recherche de solution*.
+.. Dans le champ *recherche de solution*, identifiez la solution à ajouter aux critères de recherche et cliquez sur *Ajouter*.
+.. Si nécessaire, vous pouvez activer la case *inclure PVR requis, EOS* et *configurations obsolètes*. Cette case à cocher inclut la demande de variance de produit, le support de fin de version et les éléments obsolètes dans les résultats.
+
+
+
+
+Vous pouvez utiliser la zone de texte de recherche dans la fenêtre *recherche de solution* pour rechercher une solution spécifique. Pour supprimer une solution ajoutée à l'aide de la fonction *recherche de solution*, cliquez sur *Supprimer* dans le volet supérieur.
+
+
+
+=== Résultat
+
+Comme vous incluez des solutions aux critères de recherche, les solutions s'affichent dans le volet de droite sous *critères de recherche*.

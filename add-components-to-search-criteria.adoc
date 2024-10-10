@@ -1,0 +1,45 @@
+---
+sidebar: sidebar 
+permalink: add-components-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Vous pouvez ajouter des composants à vos critères de recherche à l"aide de la zone de texte recherche ou de la recherche avancée.' 
+---
+= Ajouter des composants aux critères de recherche
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez ajouter des composants à vos critères de recherche à l'aide de la zone de texte de recherche ou de la fonction *recherche avancée*.
+
+.Description de la tâche
+Si vous savez quels composants vous souhaitez ajouter aux critères de recherche, vous pouvez entrer les noms des composants dans la zone de texte de recherche. Vous pouvez utiliser la fonction *recherche avancée* si vous n'êtes pas sûr des composants que vous souhaitez ajouter aux critères de recherche.
+
+Si vous souhaitez effacer les composants inclus dans les critères de recherche, vous pouvez cliquer sur *Effacer tout* dans le coin supérieur droit.
+
+.Étapes
+. Sur la page d'accueil de l'outil Interoperability Matrix Tool, entrez le nom du composant dans la zone de texte de recherche pour afficher les correspondances possibles pour le composant.
++
+.. Cliquez sur *Ajouter* pour inclure le composant aux critères de recherche.
+.. Cliquez sur *Ajouter* pour inclure les composants de plusieurs catégories aux critères de recherche.
+.. Si vous cliquez sur *Afficher toutes les correspondances*, IMT affiche la *recherche avancée* à l'aide de laquelle vous pouvez inclure davantage de composants aux critères de recherche.
+
+
+. Facultatif. Vous pouvez inclure un composant aux critères de recherche à l'aide de la fonction *recherche avancée*.
++
+.. Cliquez sur *recherche avancée*.
+.. Dans la fenêtre *recherche avancée*, sélectionnez une catégorie ou une solution dans le volet gauche.
+.. Dans le volet de droite, identifiez le composant à ajouter aux critères de recherche et cliquez sur *Ajouter*.
+.. Entrez des mots-clés dans la fenêtre *recherche avancée*.
+
+
+
+
+Vous pouvez activer des mots-clés comme option de recherche. Si cette option est activée, vous pouvez rechercher une ou plusieurs lignes à l'aide de mots clés associés à ces lignes. Vous pouvez également utiliser la zone de texte de recherche dans la fenêtre *recherche avancée* pour rechercher un composant spécifique. Pour supprimer un composant ajouté à l'aide de la fonction *recherche avancée*, vous pouvez cliquer sur *Supprimer* dans le volet de droite.
+
+
+
+== Résultat
+
+Lorsque vous ajoutez des composants aux critères de recherche, les composants s'affichent dans le volet de droite sous *critères de recherche*.

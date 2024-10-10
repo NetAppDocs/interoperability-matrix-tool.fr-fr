@@ -1,0 +1,61 @@
+---
+sidebar: sidebar 
+permalink: supported-config-searches.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'La matrice d"interopérabilité (IMT) vous permet d"afficher facilement les résultats des configurations prises en charge.' 
+---
+= Recherches de configuration prises en charge
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+La matrice d'interopérabilité (IMT) vous permet d'afficher facilement les résultats des configurations prises en charge. Vous pouvez effectuer plusieurs tâches, telles que la modification, le filtrage ou l'exportation des résultats et l'affichage ou la modification des critères de recherche.
+
+Dans la page *Résultats*, IMT affiche plusieurs configurations prises en charge en fonction des critères de recherche que vous avez saisis. Vous pouvez afficher les détails complets de la configuration d'une configuration spécifique en cliquant sur le nom ou l'ID de la configuration (par exemple, 20150202-204717518).
+
+[cols="~,~"]
+|===
+| Nom du champ | Description 
+
+
+| Passez aux résultats | Permet d'ignorer la page *critères de recherche de raffinage* et d'accéder directement à la page *Résultats*. 
+
+
+| Nom ou ID de la configuration | Le nom ou l'ID de configuration est un identifiant unique attribué à une configuration spécifique. Vous pouvez cliquer sur le nom de la configuration pour afficher tous les détails de la configuration. L'état des configurations s'affiche avec le nom de la configuration. 
+
+
+| Détails | Le fournit des informations sur les composants et catégories compatibles pour une configuration spécifique. 
+
+
+| Alertes | Fournit des informations importantes sur la configuration, par exemple des notes de version, des informations sur le déploiement, des recommandations, etc. 
+
+
+| Info | Fournit des informations supplémentaires sur la configuration. 
+
+
+| Historique | Fournit l'historique du contenu de la configuration. Le contenu de la configuration est surligné en vert lorsque les détails sont ajoutés, en bleu lorsque les détails sont mis à jour, en rouge avec la marque de grève lorsque les détails sont supprimés et en noir lorsqu'il n'y a pas de modification dans les détails. 
+
+
+| Créer une vue de bout en bout avec | Permet de créer une vue de bout en bout en choisissant une solution associée compatible avec la configuration sélectionnée. 
+
+
+| Et si | Permet de mettre à niveau ou de rétrograder un composant dans une configuration sélectionnée. 
+
+
+| Imprimer | Permet d'imprimer les détails de la configuration. 
+
+
+| Politiques et lignes directrices | Vous permet de mieux comprendre les règles et les directives applicables à une configuration sélectionnée. Si de nouveaux changements sont ajoutés aux politiques et aux lignes directrices, ils sont surlignés en jaune et sont applicables pendant 30 jours. Si des politiques et des lignes directrices sont supprimées, les modifications sont supprimées. Si le champ *politiques et lignes directrices* est modifié, il sera indiqué par une icône "NOUVEAU" en rouge. 
+
+
+| Filtre | Vous permet de rechercher des configurations qui ont été modifiées au cours d'une période donnée en fournissant une plage de dates appropriée dans les champs *dernière modification entre* et *et*. 
+
+
+| Remarques | Fournit des notes associées à la configuration. 
+
+
+| Comparaison de lignes | Permet de comparer deux lignes avec la configuration. 
+|===
+Les résultats de la recherche s'affichent avec les détails de configuration pour chaque résultat. Chaque ligne du résultat de la recherche affiche les détails d'une configuration appartenant à la solution de stockage actuellement sélectionnée. Les lignes de configuration à l'état *fin de support* apparaissent en gris et l'état en regard du nom de configuration est mentionné comme *EOS* ou *PVR*.
