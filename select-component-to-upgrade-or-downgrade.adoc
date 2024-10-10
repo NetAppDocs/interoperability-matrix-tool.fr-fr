@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: select-component-to-upgrade-or-downgrade.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
-summary: Vous pouvez utiliser la fonction What If de la page *Results* pour mettre à niveau ou rétrograder un composant de la configuration de votre produit. Vous pouvez modifier les composants et explorer la compatibilité. 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: Vous pouvez utiliser la fonction que faire si de la page Résultats pour mettre à niveau ou rétrograder un composant dans la configuration de votre produit. Vous pouvez modifier les composants et explorer la compatibilité. 
 ---
 = Sélectionnez un composant à mettre à niveau ou à rétrograder
 :allow-uri-read: 

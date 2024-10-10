@@ -116,7 +116,6 @@
   <block id="40a7332ba168806ae7541e3b0d032443" category="cell">&lt;Your name&gt;</block>
   <block id="3546181752f7fdc0791222b6f6046888" category="cell">Cliquez pour *déconnecter* de IMT.</block>
   <block id="2500925cc553d5478036c23a243f8242" category="admonition">Si vous redimensionnez la fenêtre, toutes les pages deviennent réactives.</block>
-  <block id="f3cc6d813c2827f8ce715f9a5062edea" category="summary">Vous pouvez exporter les résultats de la configuration à partir de la page *Résultats*, à l'aide de la fonction Exporter.</block>
   <block id="4d69b4cfaa8dc0d672ee2750a68eb35a" category="doc">Exporter les résultats de la configuration</block>
   <block id="edd2e0e3ba53de74b00fda66d6e0cd30" category="paragraph">Vous pouvez exporter les résultats de la configuration à partir de la page *Résultats*, à l'aide de la fonction *Exporter*. L'exportation des résultats de la configuration contient des informations détaillées sur la solution de stockage, les critères de recherche, les détails de la configuration et toute alerte spécifique ou information supplémentaire. Vous pouvez exporter les résultats de la configuration vers une feuille de calcul Excel ou un PDF.</block>
   <block id="4d3d15b0efce04bf2169f229735b7e5e" category="paragraph">Le format de nom de fichier de la feuille Excel qui inclut les résultats de la configuration est<block ref="985f9eebd8d56495a0d7e06fd8095217" prefix=" " category="inline-code"></block>.</block>
@@ -178,7 +177,6 @@
   <block id="7d88aef12769e53ffd597ccbc028b3c9" category="list-text"><block ref="75f8e16df20a05b225d51263c0872f38" category="inline-link-rx"></block> – Rapports techniques et articles de la base de connaissances. Envisagez de rechercher « IMT ».</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="inline-link">Communauté NetApp</block>
   <block id="911f726ab6a13b9b83840ef0fa3bc02c" category="list-text"><block ref="03b9a261ab4d9f68701f67f952808855" category="inline-link-rx"></block> – Forums sur les produits et solutions NetApp. Envisagez de rechercher « IMT ».</block>
-  <block id="5b016255af60a025de6e765b432b0ddf" category="summary">*Et si* vous permet d'explorer toutes les configurations possibles prises en charge.</block>
   <block id="a36cadb76d6293d933642bf23af7ee14" category="doc">Comment utiliser et si</block>
   <block id="2d02847e890a1e20bfe66285fc0e7a2e" category="paragraph">*Et si* vous permet d'explorer toutes les configurations possibles prises en charge. Vous pouvez utiliser la fonction *What If* pour mettre à niveau ou rétrograder un composant dans une configuration sélectionnée et explorer la compatibilité. Pour afficher toutes les configurations prises en charge après la mise à niveau ou la rétrogradation d'un composant, vous pouvez utiliser l'option *Export* pour exporter les détails de la configuration vers une feuille de calcul Excel ou un PDF.</block>
   <block id="6dd39fde28115596491353a74238c3eb" category="paragraph">Après avoir sélectionné un composant spécifique à mettre à niveau ou à rétrograder dans la fenêtre *What If*, vous pouvez afficher si le composant sélectionné est compatible avec d'autres composants de la configuration ou s'il n'y a pas de configuration correspondante. Si aucune configuration ne correspond, vous devez envisager d'étendre les critères initiaux pour dériver davantage de configurations.</block>
@@ -250,7 +248,6 @@
   <block id="06d26363632e23515632763b195365bf" category="inline-link">vidéos de formation</block>
   <block id="a73a5f329094de39386ea09d01d1ddfc" category="inline-link">Conseiller Active IQ</block>
   <block id="fb29be4696f2fe6f4f627f98a34a2f1b" category="paragraph">Vous pouvez également regarder<block ref="ec04b3a82336da62b4db4326887e8bbd" category="inline-link-rx"></block> ou ouvrir le<block ref="78271e392417a9b42ec24b305b4c350a" category="inline-link-rx"></block> à partir de la page d'accueil.</block>
-  <block id="cf1c4646242def1428c155c9317d29a1" category="summary">L'outil Interoperability Matrix Tool vous permet d'explorer les configurations compatibles pour votre produit à partir de la page *Affiner les critères de recherche*.</block>
   <block id="784e74992af3834f944fb515f4448bba" category="doc">La page Affiner les critères de recherche pour vérifier la compatibilité</block>
   <block id="1587d4268b25a2b9335f44610033db17" category="paragraph">L'outil Interoperability Matrix Tool vous permet d'explorer les configurations compatibles pour votre produit à partir de la page *Affiner les critères de recherche*. Vous pouvez réduire les résultats de configuration de cette page aux configurations souhaitées pour votre produit.</block>
   <block id="e657f68f47b6f46ab9d94df9ae5adb88" category="paragraph">Vous pouvez naviguer jusqu'à la page *critères de recherche de raffinage* à partir de la page critères de recherche initiaux, uniquement si les critères que vous avez saisis ont des configurations prises en charge. La page *Affiner les critères de recherche* est divisée en deux volets :</block>
@@ -326,7 +323,6 @@
   <block id="c9cb70ada3079e89b71a014047a8c2da" category="list-text">Cliquez sur *Enregistrer*. Le lien *Enregistrer les critères* devient *mettre à jour les critères* après avoir enregistré les critères. Vous pouvez enregistrer un maximum de 10 critères de recherche.</block>
   <block id="1c2330855bcf8dd1b692d50681ea4805" category="paragraph">Lorsque vous cliquez sur *recherche enregistrée*, une fenêtre contextuelle *critères enregistrés* s'affiche. L'onglet *recherche récente* affiche vos recherches les plus récentes.</block>
   <block id="d449eb38510b44904f1a170873f49309" category="paragraph">Chaque recherche enregistrée récente est identifiée de manière unique par son horodatage. Vous pouvez cliquer sur l'horodatage pour accéder à la page *Affiner les critères de recherche*.</block>
-  <block id="888b783c8de25fa8c73e802cc44e1eae" category="summary">Vous pouvez utiliser la fonction What If de la page *Results* pour mettre à niveau ou rétrograder un composant de la configuration de votre produit. Vous pouvez modifier les composants et explorer la compatibilité.</block>
   <block id="d9e123d5d66e7b9d2184c4852d600235" category="doc">Sélectionnez un composant à mettre à niveau ou à rétrograder</block>
   <block id="50f0605b66fe680311cdaf91c21b5c2c" category="paragraph">Vous pouvez utiliser la fonction *What If* de la page *Results* pour mettre à niveau ou rétrograder un composant dans la configuration de votre produit. Vous pouvez modifier les composants et explorer la compatibilité.</block>
   <block id="4fc43e1250ee0fbf204db6bdc5a80acf" category="list-text">Cliquez sur *What If* pour afficher les composants que vous pouvez mettre à niveau ou rétrograder pour modifier la configuration sélectionnée.</block>
@@ -521,7 +517,6 @@
   <block id="f5903f4247c226fe311fe85039ee08b1" category="list-text">Cliquez sur *recherche enregistrée*.</block>
   <block id="5e78b03368007e0be6e2f7b2e64bc287" category="list-text">Sélectionnez l'onglet *recherche récente* pour afficher les recherches récemment enregistrées. Vos recherches récentes s'affichent.</block>
   <block id="1f70cd49a7cc95ade94bc142d2f26097" category="list-text">Sélectionnez l'onglet *critères de recherche* pour afficher vos critères de recherche enregistrés spécifiques. Vos critères enregistrés s'affichent.</block>
-  <block id="e9c7f082c18ebfe8f5e5964edf7ec988" category="summary">Vous pouvez rechercher différents composants à l'aide de *recherche avancée* et ajouter ou supprimer des composants de vos critères de recherche.</block>
   <block id="fa8f8ea5e084a3d02f08c39c744b591d" category="doc">Utilisation de la recherche avancée</block>
   <block id="81063a953934d8cb5ee6f81fe405c8b1" category="paragraph">Vous pouvez rechercher différents composants à l'aide de la fonction *recherche avancée* pour ajouter ou supprimer des composants de vos critères de recherche. Vous pouvez utiliser la zone de texte de recherche dans la fenêtre *recherche avancée* pour rechercher des composants.</block>
   <block id="6756f030171d226f3144040663767c49" category="paragraph">Vous pouvez utiliser les filtres suivants si nécessaire :</block>
@@ -605,4 +600,11 @@
   <block id="cbb5df1a2f14206cda92df2eee9ad768" category="sidebar">Effectuer des recherches courantes</block>
   <block id="1f2912ea316c2e90ba1fb996bce7c786" category="sidebar">Fonctions de recherche enregistrée</block>
   <block id="c9db0e0f049034dde7c772dfb13bbb54" category="sidebar">Config. Introuvable dans l'utilisation</block>
+  <block id="e2585c3f38551dcb44861bc8f2483a6c" category="summary">Vous pouvez exporter les résultats de la configuration à partir de la page Résultats, à l'aide de la fonction Exporter.</block>
+  <block id="7f9fe1dfd084891a277ce5fe84abf5e4" category="summary">Et si vous permet d'explorer toutes les configurations possibles prises en charge.</block>
+  <block id="1cdb0206d28a4fbf2bdfded91815cba2" category="summary">L'outil Interoperability Matrix Tool vous permet d'explorer les configurations compatibles pour votre produit à partir de la page Affiner les critères de recherche.</block>
+  <block id="8be207b454cca2428f17b89b2413b5f2" category="summary">Vous pouvez charger différentes solutions ou configurations à l'aide du menu recherche enregistrée, qui vous permet d'accéder aux résultats de recherche précédemment enregistrés, aux résultats de recherche récents et aux configurations enregistrées.</block>
+  <block id="93e759c00f4904973cb28148a9620b79" category="summary">Vous pouvez utiliser la fonction que faire si de la page Résultats pour mettre à niveau ou rétrograder un composant dans la configuration de votre produit. Vous pouvez modifier les composants et explorer la compatibilité.</block>
+  <block id="7380129768771772e2da1bd4cb1ca40e" category="summary">L'onglet Toolbox affiche une liste d'outils utiles divisée en trois catégories d'utilisateurs. Un lien s'affiche pour chaque outil.</block>
+  <block id="60ffbb3dc985d9f915426091ca716097" category="summary">Vous pouvez rechercher différents composants à l'aide de la recherche avancée et ajouter ou supprimer des composants de vos critères de recherche.</block>
 </blocks>
